@@ -51,6 +51,7 @@ I'm Javier Rodrigo, currently Spain based, working as Cloud and DevOps engineer.
 <code><img title="NodeJS" alt="nodejs" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
 <code><img title="Java" alt="java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
 <code><img title="Gradle" alt="gradle" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" /></code>
+
 <code><img title="Markdown" alt="markdown" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
 <code><img title="HTML5" alt="html5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 <code><img title="CSS3" alt="css3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
