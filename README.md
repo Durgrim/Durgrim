@@ -13,7 +13,7 @@ I'm Javier Rodrigo, currently Spain based, working as Cloud and DevOps engineer.
 - Improving Helm
 
 ## :busts_in_silhouette: How to reach me:
-<a href=""><img alt="Link to my GitHub" src="https://img.shields.io/github/followers/durgrim?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@durgrim" height="22px"></a>
+<a href=""><img alt="Link to my GitHub" src="https://img.shields.io/github/followers/jarodra?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@jarodra" height="22px"></a>
 <a href="https://www.linkedin.com/in/jarodra/"><img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/jarodra&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" /></a>
 <a href="mailto:javier@radevops.com"><img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=javier@radevops.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" /></a>
 
