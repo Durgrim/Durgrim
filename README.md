@@ -4,13 +4,12 @@ I'm Javier Rodrigo, currently Spain based, working as Cloud and DevOps engineer.
 ## Certifications
 - [Google Cloud Certified Professional Cloud Architect](https://google.accredible.com/0875651f-e532-492a-9d43-e17759dc36a2)
 - [Google Cloud Certified Associate Cloud Engineer](https://google.accredible.com/63483c7c-f370-4199-bd09-1354e2a38a45)
+- [HashiCorp Certified: Terraform Associate (003)](https://www.credly.com/badges/83c53d7a-e811-49c0-86ff-f1914405bfe9)
 
 ## Currently learning & preparing 
-- HashiCorp Terraform Associate (003) Certification
-- Github Actions
 - Azure DevOps
-- Circle CI
-- Improving Helm
+- Kubernetes
+- Helm Charts
 
 ## :busts_in_silhouette: How to reach me:
 <a href=""><img alt="Link to my GitHub" src="https://img.shields.io/github/followers/jarodra?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@jarodra" height="22px"></a>
