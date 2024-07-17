@@ -5,6 +5,7 @@ I'm Javier Rodrigo, currently Spain based, working as Cloud and DevOps engineer.
 - [Google Cloud Certified Professional Cloud Architect](https://google.accredible.com/0875651f-e532-492a-9d43-e17759dc36a2)
 - [Google Cloud Certified Associate Cloud Engineer](https://google.accredible.com/63483c7c-f370-4199-bd09-1354e2a38a45)
 - [HashiCorp Certified: Terraform Associate (003)](https://www.credly.com/badges/83c53d7a-e811-49c0-86ff-f1914405bfe9)
+- [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/JavierRodrigoAlonso-6494/8F08F64927B653B6)
 
 ## Currently learning & preparing 
 - Azure DevOps
