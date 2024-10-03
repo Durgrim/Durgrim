@@ -18,7 +18,7 @@ I'm Javier Rodrigo, currently Spain based, working as Cloud and DevOps engineer.
 
 ## :hammer_and_wrench: Tools:
 <code><img title="Jenkins" alt="jenkins" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" /></code>
-<code><img title="Jenkins" alt="jenkins" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" /></code>
+<code><img title="Github Actions" alt="jenkins" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" /></code>
 
 <code><img title="Terraform" alt="terraform" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" /></code>
 <code><img title="Ansible" alt="ansible" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" /></code>
