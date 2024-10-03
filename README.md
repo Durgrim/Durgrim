@@ -8,9 +8,8 @@ I'm Javier Rodrigo, currently Spain based, working as Cloud and DevOps engineer.
 - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/JavierRodrigoAlonso-6494/8F08F64927B653B6)
 
 ## Currently learning & preparing 
-- Azure DevOps
-- Kubernetes
-- Helm Charts
+- Professional Cloud DevOps Engineer (GCP)
+- Certified Kubernetes Administrator (CKA)
 
 ## :busts_in_silhouette: How to reach me:
 <a href=""><img alt="Link to my GitHub" src="https://img.shields.io/github/followers/jarodra?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@jarodra" height="22px"></a>
@@ -19,6 +18,7 @@ I'm Javier Rodrigo, currently Spain based, working as Cloud and DevOps engineer.
 
 ## :hammer_and_wrench: Tools:
 <code><img title="Jenkins" alt="jenkins" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" /></code>
+<code><img title="Jenkins" alt="jenkins" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" /></code>
 
 <code><img title="Terraform" alt="terraform" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" /></code>
 <code><img title="Ansible" alt="ansible" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" /></code>
